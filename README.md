@@ -1,0 +1,1 @@
+# one_side_pyramid.c
